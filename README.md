@@ -1,1 +1,1 @@
-# darkmark git@github.com:markrichardson725/darkmark.git
+# darkmark git@github.com:markrichardson725/darkmark.npm publish
